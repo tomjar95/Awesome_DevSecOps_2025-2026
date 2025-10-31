@@ -1,7 +1,7 @@
 ## Learn GIT in weekend
 
 ### Articles
-1. Flynerd - Jak napisać dobre README projektu na Githubie? - [link](https://www.flynerd.pl/2018/06/jak-napisac-dobre-readme-projektu-na-githubie.html)
+1. Flynerd - How to write good project README on GitHub? - [link](https://www.flynerd.pl/2018/06/jak-napisac-dobre-readme-projektu-na-githubie.html)
 
 2. Introduction to GitHub - [link](https://github.com/skills/introduction-to-github)
 
@@ -13,7 +13,7 @@
 
 6. Git Pro Book - [link](https://git-scm.com/book/pl/v2)
 
-7. Notatki z kluczowymi informacjami do systemu Git - [link](https://github.com/bogdanpolak/nauka-gita)
+7. Notes with key information about Git  - [link](https://github.com/bogdanpolak/nauka-gita)
 
 8. Introduction to Git from Microsoft - [link](https://learn.microsoft.com/en-us/training/modules/intro-to-git/)
 
